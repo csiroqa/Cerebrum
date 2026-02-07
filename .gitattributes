@@ -1,0 +1,26 @@
+# 1. 默认加密所有文件
+* filter=git-crypt diff=git-crypt
+
+# 2. 排除 Git 核心配置
+.gitattributes !filter !diff
+.gitignore !filter !diff
+
+# 3. 排除 Logseq 软件配置与备份
+logseq/** !filter !diff
+
+# 4. 排除 Obsidian 软件配置 (插件和主题)
+.obsidian/** !filter !diff
+
+# 5. 排除所有 Logseq 插件运行目录 (以 logseq-plugin 开头的文件夹)
+logseq-plugin*/** !filter !diff
+logseq-journals-calendar*/** !filter !diff
+
+# 6. 强制加密核心笔记内容文件夹 (确保万无一失)
+00-System/** filter=git-crypt diff=git-crypt
+01-Journals/** filter=git-crypt diff=git-crypt
+02-Wiki/** filter=git-crypt diff=git-crypt
+03-AI_Chats/** filter=git-crypt diff=git-crypt
+04-Archives/** filter=git-crypt diff=git-crypt
+journals/** filter=git-crypt diff=git-crypt
+pages/** filter=git-crypt diff=git-crypt
+whiteboards/** filter=git-crypt diff=git-crypt

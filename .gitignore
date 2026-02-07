@@ -1,0 +1,9 @@
+# 忽略 Logseq 自动生成的备份文件夹（因为 Git 已经取代了它的功能）
+logseq/bak/
+# 忽略索引缓存
+logseq/.recycle/
+# 忽略系统元数据
+.DS_Store
+Thumbs.db
+
+.obsidian/
