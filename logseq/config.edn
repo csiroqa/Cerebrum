@@ -421,4 +421,7 @@
  :file/name-format :triple-lowbar
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? true
- :journal/page-title-format "yyyy/MM/dd"}
+ :journal/page-title-format "yyyy/MM/dd"
+ :graph/forcesettings {:link-dist 90
+ :charge-strength -400}
+ :graph/settings {:journal? true}}
