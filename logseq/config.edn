@@ -424,4 +424,6 @@
  :journal/page-title-format "yyyy/MM/dd"
  :graph/forcesettings {:link-dist 90
  :charge-strength -400}
- :graph/settings {:journal? true}}
+ :graph/settings {:journal? false
+ :builtin-pages? false
+ :orphan-pages? false}}
