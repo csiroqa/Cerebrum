@@ -1,9 +1,10 @@
 ---
 title: NAS科普
 ---
-# NAS科普
 
-## 1. NAS科普
+# NAS 科普
+
+## 1. NAS 科普
 
 **system**: 
 
@@ -226,10 +227,7 @@ services:
 这种方案比单纯买个群晖插满企业盘要**安静得多**，且**Immich 的响应速度**会快上好几倍。
 ```
 
-
-
 --------------------
-
 
 <a href="https://chatboxai.app" style="display: flex; align-items: center;">
 <img src='https://chatboxai.app/icon.png' style='width: 40px; height: 40px; padding-right: 6px'>

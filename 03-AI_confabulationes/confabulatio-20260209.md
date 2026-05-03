@@ -1,6 +1,7 @@
 ---
 title: 本地数据存储指南
 ---
+
 # 本地数据存储指南
 
 ## 1. 本地数据存储指南
@@ -2000,10 +2001,7 @@ git branch
 3. `git push ...` (把本地仓库同步到远程)
 ```
 
-
-
 --------------------
-
 
 <a href="https://chatboxai.app" style="display: flex; align-items: center;">
 <img src='https://chatboxai.app/icon.png' style='width: 40px; height: 40px; padding-right: 6px'>
