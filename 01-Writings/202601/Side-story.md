@@ -1,13 +1,14 @@
 ---
 title: Envy Stir Whispers
 ---
+
 # Envy Stir
 
 Whispers (ℰ𝓃𝓋𝓎 𝒮𝓉𝒾𝓇 ᴡʜɪꜱᴘᴇʀꜱ)
 
 ## ???
 
-### Wow, yours
+### Wow, Yours
 
 Iɴ front of the flourishing bay[1] flowers sits Richard, who has newly been admitted to this widely known senior high school. With the persistent efforts paid, Richard ultimately fulfilled the goal imposed by his family.
 
@@ -21,15 +22,15 @@ Absorbed in the sunlight spots under the trees, Richard suddenly hits something 
 
 ‘It’s my fault. I’m sorry… sir …’
 
-‘No, I … How are you now? Are you feeling well?’
+‘No, I … How are you now? Are you feeling well?’
 
-‘Yes, I’m good … ’
+‘Yes, I’m good … ’
 
 ‘I shall pay for the broken bottles.’
 
-‘It doesn’t matter, I mean, they are beautiful and … shining.’
+‘It doesn’t matter, I mean, they are beautiful and … shining.’
 
-‘I got you. These are … bay flowers, right?’
+‘I got you. These are … bay flowers, right?’
 
 ‘ – Yeah, These are my favourite flowers, so I’ve made these bottles for sale to show their beauty,’
 
@@ -41,9 +42,9 @@ The girl replies, standing up while patting dirt off her white T-shirt. The girl
 
 A gentle wind blows through, bringing the bay flowers up into the air, and the aroma fills Richard’s senses. After a moment of eye contact, Richard seems to be curious about the girl's life.
 
-‘Well, I’d like to buy one. It seems that they have significant meanings to you … And, of course, I will pay for the broken ones.’
+‘Well, I’d like to buy one. It seems that they have significant meanings to you … And, of course, I will pay for the broken ones.’
 
-‘Really? I’m really glad that you like the flowers. But you shouldn’t, I mean, needn’t pay for them. You know, “It’s no use crying over spilt milk.” I never complain about whatever has happened. The best time to smell flowers is the present. Emm … you can take one for free – for you can understand me.’
+‘Really? I’m really glad that you like the flowers. But you shouldn’t, I mean, needn’t pay for them. You know, “It’s no use crying over spilt milk.” I never complain about whatever has happened. The best time to smell flowers is the present. Emm … you can take one for free – for you can understand me.’
 
 ‘Marvellous! It’s really a positive attitude towards life. Now that you’ve said that, I will take one and I will indeed cherish your warm heart. It’s really kind of you.’
 
@@ -60,4 +61,5 @@ Bᴀᴄᴋ from his office, Richard will be captured by the bay flowers in the t
 In front of the bay flowers will stand a bird, twittering to celebrate the golden memory.
 
 ---
+
 [1] bay: LAUREL; any of several shrubs or trees (as the red bay or sweet bay) resembling the laurel compare BAY RUM.
