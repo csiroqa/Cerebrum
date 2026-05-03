@@ -140,7 +140,7 @@
 
  ;; Set the default location for storing journals.
  ;; Default value: "journals"
- ;; :journals-directory "journals"
+ :journals-directory "journals"
 
  ;; Set the default location for storing whiteboards.
  ;; Default value: "whiteboards"
