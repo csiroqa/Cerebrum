@@ -1,9 +1,10 @@
 # 1. 默认加密所有文件
 * filter=git-crypt diff=git-crypt
 
-# 2. 排除 Git 核心配置
+# 2. 排除 Git 核心配置与公共文档
 .gitattributes !filter !diff
 .gitignore !filter !diff
+README.md !filter !diff
 
 # 3. 排除 Logseq 软件配置与备份
 logseq/** !filter !diff
