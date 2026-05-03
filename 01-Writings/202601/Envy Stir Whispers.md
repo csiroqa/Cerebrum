@@ -1,3 +1,6 @@
+---
+title: Envy Stir Whispers
+---
 # Envy Stir
 
 Whispers (ℰ𝓃𝓋𝓎 𝒮𝓉𝒾𝓇 ᴡʜɪꜱᴘᴇʀꜱ)

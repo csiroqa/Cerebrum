@@ -1,3 +1,6 @@
+---
+title: Envy Stir Main Story
+---
 # Envy Stir
 
 Main Story（ℰ𝓃𝓋𝓎 𝒮𝓉𝒾𝓇）
