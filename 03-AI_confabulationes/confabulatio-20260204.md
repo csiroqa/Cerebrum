@@ -1,3 +1,6 @@
+---
+title: Git管理Word
+---
 # Git管理Word
 
 ## 1. Git管理Word
