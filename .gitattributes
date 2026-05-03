@@ -11,16 +11,19 @@ logseq/** !filter !diff
 # 4. 排除 Obsidian 软件配置 (插件和主题)
 .obsidian/** !filter !diff
 
-# 5. 排除所有 Logseq 插件运行目录 (以 logseq-plugin 开头的文件夹)
+# 5. 排除所有 Logseq 插件运行目录
 logseq-plugin*/** !filter !diff
 logseq-journals-calendar*/** !filter !diff
 
-# 6. 强制加密核心笔记内容文件夹 (确保万无一失)
+# 6. 强制加密核心笔记内容文件夹
 00-System/** filter=git-crypt diff=git-crypt
-01-Journals/** filter=git-crypt diff=git-crypt
-02-Wiki/** filter=git-crypt diff=git-crypt
-03-AI_Chats/** filter=git-crypt diff=git-crypt
-04-Archives/** filter=git-crypt diff=git-crypt
-journals/** filter=git-crypt diff=git-crypt
+01-Scripta/** filter=git-crypt diff=git-crypt
+02-Vici/** filter=git-crypt diff=git-crypt
+03-IA_confabulationes/** filter=git-crypt diff=git-crypt
+04-Archiva/** filter=git-crypt diff=git-crypt
+05-Linguistica/** filter=git-crypt diff=git-crypt
+Amicorum/** filter=git-crypt diff=git-crypt
+Ephemerides/** filter=git-crypt diff=git-crypt
 pages/** filter=git-crypt diff=git-crypt
 whiteboards/** filter=git-crypt diff=git-crypt
+assets/** filter=git-crypt diff=git-crypt
