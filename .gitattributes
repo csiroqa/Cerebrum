@@ -1,1 +1,33 @@
-# 1. 默认加密所有文件* filter=git-crypt diff=git-crypt# 2. 排除 Git 核心配置与公共文档.gitattributes !filter !diff.gitignore !filter !diffREADME.md !filter !diff# 3. 排除 Logseq 软件配置与备份logseq/** !filter !diff# 4. 排除 Obsidian 软件配置 (插件和主题).obsidian/** !filter !diff# 5. 排除所有 Logseq 插件运行目录logseq-plugin*/** !filter !difflogseq-journals-calendar*/** !filter !diff# 6. 强制加密核心笔记内容文件夹00-System/** filter=git-crypt diff=git-crypt01-Scripta/** filter=git-crypt diff=git-crypt02-Vici/** filter=git-crypt diff=git-crypt03-IA_confabulationes/** filter=git-crypt diff=git-crypt04-Archiva/** filter=git-crypt diff=git-crypt05-Linguistica/** filter=git-crypt diff=git-cryptAmicorum/** filter=git-crypt diff=git-cryptEphemerides/** filter=git-crypt diff=git-cryptpages/** filter=git-crypt diff=git-cryptwhiteboards/** filter=git-crypt diff=git-cryptassets/** filter=git-crypt diff=git-crypt# 7. _index.md 属于目录索引，不包含实质内容，不加密**/_index.md !filter !diff
+# 1. 默认加密所有文件
+* filter=git-crypt diff=git-crypt
+
+# 2. 排除 Git 核心配置与公共文档
+.gitattributes !filter !diff
+.gitignore !filter !diff
+README.md !filter !diff
+
+# 3. 排除 Logseq 软件配置与备份
+logseq/** !filter !diff
+
+# 4. 排除 Obsidian 软件配置 (插件和主题)
+.obsidian/** !filter !diff
+
+# 5. 排除所有 Logseq 插件运行目录
+logseq-plugin*/** !filter !diff
+logseq-journals-calendar*/** !filter !diff
+
+# 6. 强制加密核心笔记内容文件夹
+00-System/** filter=git-crypt diff=git-crypt
+01-Scripta/** filter=git-crypt diff=git-crypt
+02-Vici/** filter=git-crypt diff=git-crypt
+03-IA_confabulationes/** filter=git-crypt diff=git-crypt
+04-Archiva/** filter=git-crypt diff=git-crypt
+05-Linguistica/** filter=git-crypt diff=git-crypt
+Amicorum/** filter=git-crypt diff=git-crypt
+Ephemerides/** filter=git-crypt diff=git-crypt
+pages/** filter=git-crypt diff=git-crypt
+whiteboards/** filter=git-crypt diff=git-crypt
+assets/** filter=git-crypt diff=git-crypt
+
+# 7. _index.md 属于目录索引，不包含实质内容，不加密
+**/_index.md !filter !diff
