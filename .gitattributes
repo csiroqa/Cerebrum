@@ -30,4 +30,4 @@ whiteboards/** filter=git-crypt diff=git-crypt
 assets/** filter=git-crypt diff=git-crypt
 
 # 7. 目录索引文件不加密
-**/_*_index.md !filter !diff
+_*_index.md !filter !diff
