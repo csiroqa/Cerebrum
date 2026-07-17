@@ -29,5 +29,5 @@ pages/** filter=git-crypt diff=git-crypt
 whiteboards/** filter=git-crypt diff=git-crypt
 assets/** filter=git-crypt diff=git-crypt
 
-# 7. _index.md 属于目录索引，不包含实质内容，不加密
-**/_index.md !filter !diff
+# 7. 目录索引文件不加密
+**/_*_index.md !filter !diff
